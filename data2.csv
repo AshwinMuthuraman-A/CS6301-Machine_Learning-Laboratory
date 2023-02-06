@@ -1,0 +1,8 @@
+State,Account Type,Educatio n,Employment,Applicati on,Y/N
+MP,NA,Bachelor,Employed,Online,Y
+MP,Savings,Doctorate,Unemployed,Offline,N
+MP,Savings,Bachelor,Employed,Online,Y
+MH,Current,Master,Employed,Online,N
+MP,NA,Doctorate,Employed,Online,Y
+MP,Savings,Doctorate,Unemployed,Online,Y
+MP,NA,Master,Unemployed,Offline,N

@@ -1,0 +1,9 @@
+Color,Shape,Height,Numberofsignals,TrafficLight
+Green,Circle,150,3,Yes
+Green,Square,120,2,No
+Yellow,Circle,0,3,No
+Red,Circle,200,3,Yes
+Green,Circle,123,3,Yes
+Yellow,Rectangle,150,3,No
+Red,Square,150,3,Yes
+Green,Circle,120,3,Yes
